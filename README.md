@@ -1,5 +1,6 @@
 # Scrappp
-A Very simple free proxy list scraper.
+A Very simple free proxy list scraper, made in python
+The tool scrape proxy from diffrent sites and api's.
 
 # Screenshots
 
