@@ -8,12 +8,6 @@ The tool scrape proxy from diffrent sites and api's.
 
 ![unknown](https://user-images.githubusercontent.com/76626446/148999080-30f57162-f3c4-4432-bf37-c9a029eed844.png)
 
-# About the script
-
-!!! READ THIS
-
-the script sometimes crash i dont really know why but it STILL WORKING AND YOU CAN USE IT
-
 # Contacts
 
 Telegram : @Jojigodamn
