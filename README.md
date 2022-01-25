@@ -29,6 +29,19 @@ You should install this modules before starting the tool:
 
 > Install the last version from releases
 
+# Using the tool
+
+| Option | Description |
+| --- | --- |
+| 1 | Scrap HTTP OR HTTPS |
+| 2 | Scrap SOCKS4 |
+| 3 | Scrap SOCKS5 |
+| 4 | Scrap ALL OF PROXY TYPES |
+| 5 | Keep Scraping HTTP OR HTTPS ( Every 5 min ) |
+| 6 | Keep Scraping SOCKS4 ( Every 5 min ) |
+| 7 | Keep Scraping SOCKS5 ( Every 5 min ) |
+| 8 | Keep Scraping ALL OF PROXY TYPES ( Every 5 min ) |
+
 # Contacts
 
 > Discord : Joji#0082
