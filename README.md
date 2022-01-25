@@ -13,17 +13,17 @@ hope you enjoy it.
 You should install this modules before starting the tool:
 
 ```
-  pip install  imp 
-  pip install  itertools  
+  pip install imp 
+  pip install itertools  
   pip install os 
-  pip install  site 
-  pip install  turtle  
+  pip install site 
+  pip install turtle  
   pip install weakref  
   pip install requests 
   pip install random 
   pip install string 
   pip install time 
-  pio install  urllib
+  pio install urllib
 
 ```
 
