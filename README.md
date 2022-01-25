@@ -1,6 +1,6 @@
-# Scrappp
-A Very simple free proxy list scraper, made in python
-The tool scrape proxy from diffrent sites and api's.
+# Scrappp v1.2
+Scrappp is a python tool made to scrap free proxy lists, the tool is very easy and i will try to keep updating it and making more versions.
+hope you enjoy it.
 
 # Screenshots
 
@@ -8,10 +8,28 @@ The tool scrape proxy from diffrent sites and api's.
 
 ![Capture d’écran 2022-01-24 212335](https://user-images.githubusercontent.com/76626446/150858924-eec01a05-b215-4535-8a88-717c476a40b4.png)
 
+# Modules
 
+You should install this modules before starting the tool:
+
+```
+  pip install  imp 
+  pip install  itertools  
+  pip install os 
+  pip install  site 
+  pip install  turtle  
+  pip install weakref  
+  pip install requests 
+  pip install random 
+  pip install string 
+  pip install time 
+  pio install  urllib
+
+```
+
+> Install the last version from releases
 
 # Contacts
 
-Telegram : @Jojigodamn
-
-Discord : Joji#0082
+> Discord : Joji#0082
+> Telegram : @Jojigodamn
