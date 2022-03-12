@@ -45,5 +45,7 @@ You should install this modules before starting the tool:
 # Contacts
 
 > Discord : Joji#0082
+
 > Telegram : @Jojigodamn
+
 > Discord server : [Join](https://discord.gg/acbeVxY5ra)
