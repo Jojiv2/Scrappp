@@ -13,17 +13,12 @@ hope you enjoy it.
 You should install this modules before starting the tool:
 
 ```
-  pip install imp 
-  pip install itertools  
-  pip install os 
-  pip install site 
-  pip install turtle  
-  pip install weakref  
-  pip install requests 
+  pip install os
+  pip install requests  
   pip install random 
-  pip install string 
-  pip install time 
-  pio install urllib
+  pip install json 
+  pip install time  
+  pip install string  
 
 ```
 
@@ -41,6 +36,9 @@ You should install this modules before starting the tool:
 | 6 | Keep Scraping SOCKS4 ( Every 5 min ) |
 | 7 | Keep Scraping SOCKS5 ( Every 5 min ) |
 | 8 | Keep Scraping ALL OF PROXY TYPES ( Every 5 min ) |
+| 9 | Check proxy if live ( HTTPS ONLY ) |
+| 10 | Check open port for ip |
+
 
 # Contacts
 
