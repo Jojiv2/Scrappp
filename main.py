@@ -34,7 +34,7 @@ print('''
                           ███    ███                                                     
 
         [+] Author : Joji - DZ -
-        [+] Version : 1.2.0
+        [+] Version : 1.4.0
         [+] Telegram : @Jojigodamn
 
 
