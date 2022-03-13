@@ -1,4 +1,4 @@
-# Scrappp v1.2
+# Scrappp v1.4
 Scrappp is a python tool made to scrap free proxy lists, the tool is very easy and i will try to keep updating it and making more versions.
 hope you enjoy it.
 
