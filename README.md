@@ -13,18 +13,20 @@ hope you enjoy it.
 You should install this modules before starting the tool:
 
 ```
-  pip install os
-  pip install requests  
-  pip install random 
-  pip install json 
-  pip install time  
-  pip install string  
-
+requests   
 ```
 
-> Install the last version from releases
+<p> Or use the following command... </p>
+
+```
+pip install requests
+```
+
+<p> Install the last version from releases </p>
 
 # Using the tool
+<p> After you start the tool you need to choose option from 1 to 10 <br> each option do a work </p>
+
 
 | Option | Description |
 | --- | --- |
@@ -39,6 +41,10 @@ You should install this modules before starting the tool:
 | 9 | Check proxy if live ( HTTPS ONLY ) |
 | 10 | Check open port for ip |
 
+# API
+`https://api.proxyscrape.com/`<br>
+`https://proxylist.geonode.com/api/`<br>
+`https://ipasn.com/open-port-check/`<br>
 
 # Contacts
 
