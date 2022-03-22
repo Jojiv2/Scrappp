@@ -58,4 +58,4 @@ pip install requests
 
 > Telegram : @Jojigodamn
 
-> Discord server : [Join](https://discord.gg/acbeVxY5ra)
+> Be an OG in our discord server : [Join](https://discord.gg/acbeVxY5ra)
