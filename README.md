@@ -57,5 +57,6 @@ pip install requests
 > Discord : Joji#0082
 
 > Telegram : @Jojigodamn
+> Telegram channel : https://t.me/jojipydev
 
 > Be an OG in our discord server : [Join](https://discord.gg/acbeVxY5ra)
