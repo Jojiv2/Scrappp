@@ -40,12 +40,14 @@ pip install bs4
 | 2 | Scrap SOCKS4 |
 | 3 | Scrap SOCKS5 |
 | 4 | Scrap ALL OF PROXY TYPES |
-| 5 | Keep Scraping HTTP OR HTTPS ( Every 5 min ) |
-| 6 | Keep Scraping SOCKS4 ( Every 5 min ) |
-| 7 | Keep Scraping SOCKS5 ( Every 5 min ) |
-| 8 | Keep Scraping ALL OF PROXY TYPES ( Every 5 min ) |
-| 9 | Check proxy if live ( HTTPS ONLY ) |
-| 10 | Check open port for ip |
+| 5 | Check https proxy |
+| 6 | Open port checker |
+| 7 | Who is hosting lookup |
+| 8 | Revers dns lookup |
+| 9 | Ping lookup |
+| 10 | Check if site is dead |
+| 11 | Text to hash |
+| 12 | SMTP checker |
 
 # API
 `https://api.proxyscrape.com/`<br>
