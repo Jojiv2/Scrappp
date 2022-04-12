@@ -5,14 +5,12 @@
 
 
 # Scrappp v1.4
-Scrappp is a python tool made to scrap free proxy lists, the tool is very easy and i will try to keep updating it and making more versions.
+Scrappp is a python tool made to scrap free proxy lists ( OLD VERSIONS ), we added alot of new things to our tool such as smtp checker, who is hosting lookup and much more, you can check releases the tool is very easy and i will try to keep updating it and making more versions.
 hope you enjoy it.
 
 # Screenshots
 
-![Capture d’écran 2022-01-24 212207](https://user-images.githubusercontent.com/76626446/150858709-582cb948-5647-4a0d-bfab-9df2ca5b77ba.png)
-
-![Capture d’écran 2022-01-24 212335](https://user-images.githubusercontent.com/76626446/150858924-eec01a05-b215-4535-8a88-717c476a40b4.png)
+![Capture d’écran 2022-04-12 230332](https://user-images.githubusercontent.com/76626446/163062309-cd2cd1f1-ee1a-4728-8434-9007f7ad5a44.png)
 
 # Modules
 
@@ -49,8 +47,15 @@ pip install requests
 
 # API
 `https://api.proxyscrape.com/`<br>
+`https://proxy-daily.com/`<br>
+`https://www.us-proxy.org/`<br>
 `https://proxylist.geonode.com/api/`<br>
 `https://ipasn.com/open-port-check/`<br>
+`https://hooshosting.com/api/`<br>
+`https://api.hackertarget.com/reverseiplookup`<br>
+`https://api.hashify.net`<br>
+`https://www.isitdownrightnow.com/`<br>
+`https://pingability.com/`<br>
 
 # Contacts
 
