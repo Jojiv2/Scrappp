@@ -18,12 +18,14 @@ You should install this modules before starting the tool:
 
 ```
 requests   
+bs4
 ```
 
 <p> Or use the following command... </p>
 
 ```
 pip install requests
+pip install bs4
 ```
 
 <p> Install the last version from releases </p>
