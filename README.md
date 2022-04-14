@@ -4,7 +4,7 @@
 ![scrappp](https://user-images.githubusercontent.com/76626446/159303354-047cadfa-4a04-45f1-a6e1-db09a61719c9.png)
 
 
-# Scrappp v1.4
+# Scrappp v2
 Scrappp is a python tool made to scrap free proxy lists ( OLD VERSIONS ), we added alot of new things to our tool such as smtp checker, who is hosting lookup and much more, you can check releases the tool is very easy and i will try to keep updating it and making more versions.
 hope you enjoy it.
 
